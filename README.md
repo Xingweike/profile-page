@@ -24,6 +24,11 @@ This is a webpage where the user can create an account, and login and logout of 
 
 ### Notes
 
-This personal project was built for fun and not for any real useage. All passwords are not encrypted, so don't use any important bank passwords. Using babel-node in production is very inefficient, and uses a lot of memory (but makes developing this easier). Additionally, Redis data resides in-memory and is not a good choice of a database for this kind of thing in hindsight.
+This personal project was built for fun and not for any real use. All passwords are not encrypted, so don't use any important bank passwords. Using babel-node in production is very inefficient, and uses a lot of memory (but makes developing  easier). 
 
+## Pictures
+![Login](/static/gitimages/login.png)
+![Profile Picture](/static/gitimages/pfp.png)
+![Profile](/static/gitimages/profile.png)
+![Register](/static/gitimages/register.png)
 
